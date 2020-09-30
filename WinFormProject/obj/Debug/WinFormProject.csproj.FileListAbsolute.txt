@@ -1,0 +1,12 @@
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\bin\Debug\WinFormProject.exe.config
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\bin\Debug\WinFormProject.exe
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\bin\Debug\WinFormProject.pdb
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csprojAssemblyReference.cache
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.Form1.resources
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.Properties.Resources.resources
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.GenerateResource.cache
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.CoreCompileInputs.cache
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.CopyComplete
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.exe
+C:\Users\Habitas\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.pdb
